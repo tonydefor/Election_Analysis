@@ -19,3 +19,6 @@ A Colarado board of Elections employee has given the following tasks to complete
 
 The analysis of the election show that
 - There were 369,711 votes cast in the election
+
+![Total Votes Code](https://user-images.githubusercontent.com/47859209/190319343-b5cae841-df8b-4523-8fff-600cf61baf52.png)
+![Total Votes Output](https://user-images.githubusercontent.com/47859209/190319345-e2ad0a97-72cd-4282-8a58-de72e9baba75.png)
